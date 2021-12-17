@@ -4,8 +4,6 @@
 
 Некая компания, имеющая большой товарный оборот на собственных складские площадях и ведущая вручную весь учет, озабочена автоматизацией процесса движения товара на складах. Для решения данной проблемы было разработано данное приложение.
 
-![](https://drive.google.com/file/d/1i36Tv-aauNuvLWxVKTsTe1e9yIuut2bd/view?usp=sharing)
-
 
 Необходимая функциональность:
 - Несколько ролей для персонала и роль посетитель
@@ -17,7 +15,8 @@
 Анализ требований
 -----------------
 
-![Use case diagram for 'Dungeons & Dragons Initiative Tracker'](http://www.plantuml.com/plantuml/svg/ZLAzJW914ExtARvG62WuUc8CoZKMMFZp0EFTS4pS7x8xfoJ6TtTEB220iVt-PxEBefIr3zvvNYiq8KktKRIIkL59qSthFdQS8bPKbFCSL52ld1juYfrdZEgh6lTHL4ZbdV6SgNdZFFfqG4ngWjksdRriMrAUFN98fX7bC1gYLXIfO-TWePXECTu3M6x8OgomJ1pEeRYkAembR5DMh7CAM8ld2URWdN9iorystltODFtJP9vBGmyEzrBKrbwazjrBpvHFkNCJJaJdTZmfPSKTgNgszcDWtsbGskBLa9DZZvYgkZ5aapv-4HGbjM9foc2JsFY-vGiT3vOAxNCyR3YOoSPA62u9Oi_qvHQci9_t3G00)
+![Use-Case](AsvihzlTvqA.jpg)
+
 
 Проектирование
 --------------
